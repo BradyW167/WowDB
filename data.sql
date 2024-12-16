@@ -269,7 +269,7 @@ INSERT INTO Spell (spell_id, spell_name, spell_desc, spell_type) VALUES
 -- CLASS SPELLS
 (20, 'Death Grip', 'Harnesses the energy that surrounds and binds all matter, drawing the target toward you.', 'class_spell'),
 (21, 'Metamorphosis', 'Leap into the air and land with explosive force, you are transformed into a hellish demon for 24 sec.', 'class_spell'),
-(22, 'Cat Form', 'Shapeshift into Cat Form, increasing auto-attack damage by 40%, movement speed by 30%, granting protection from Polymorph effects, and reducing falling damage.', 'class_spell'),
+(22, 'Cat Form', 'Shapeshift into Cat Form, increasing auto-attack damage by 40%, movement speed by 30%.', 'class_spell'),
 (23, 'Hover', 'Launch yourself and gain 30% increased movement speed for 6 sec. Allows Evoker spells to be cast while moving.', 'class_spell'),
 (24, 'Hunter''s Mark', 'Apply Hunter''s Mark to the target, causing the target to always be seen and tracked by the Hunter.', 'class_spell'),
 (25, 'Blink', 'Teleports you forward 20 yds or until reaching an obstacle, and frees you from all stuns and bonds.', 'class_spell'),
@@ -411,7 +411,7 @@ INSERT INTO Raid (raid_id, raid_name) VALUES
 INSERT INTO Raid_Performance (raid_id, spec_id, log_date, percentile_90_damage, percentile_50_damage, percentile_10_damage) VALUES
 -- Nerub-ar Palace
 (1, 2, '2024-12-06', 1512992.62, 1295132.04, 1042864.81),
-(1, 3, '2024-12-06', 145700.83, 1260658.61, 1011261.94),
+(1, 3, '2024-12-06', 1456700.83, 1260658.61, 1011261.94),
 (1, 4, '2024-12-06', 1515174.39, 1286212.79, 1004567.51),
 (1, 6, '2024-12-06', 1487592.17, 1290971.68, 927113.15),
 (1, 7, '2024-12-06', 1512333.66, 1262938.82, 921749.43),

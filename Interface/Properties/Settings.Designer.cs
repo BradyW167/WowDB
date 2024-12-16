@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SupPart.Properties
+namespace WowDB.Properties
 {
 
 
