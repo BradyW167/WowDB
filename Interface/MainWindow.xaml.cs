@@ -19,11 +19,11 @@ namespace WowDB {
 
     private void btnConnect_Click (object sender, RoutedEventArgs e) {
         // build the connection string
-        connStr = @"Server=" + "trevor.butler.edu;" +                     // server name
-            "PORT=" + "3306" + ";" +                                      // port number
-            "Database=bwerling;" +                                        // database name
-            "Uid=bwerling;" +                                             // user id
-            "Pwd=Crg2f3EFaJj1HU0w";                                       // password
+        connStr = @"Server=" + "trevor.butler.edu;" +                  	// server name
+            "PORT=" + "3306" + ";" +                                    // port number
+            "Database=;" +                                        	// database name
+            "Uid=;" +                                             	// user id
+            "Pwd=";                                       		// password
         mConnectionMySQL = new MySqlConnection(connStr); // Set connection object using info string
         lblConnected.Content = "Database connected"; // Show connected in display
     }

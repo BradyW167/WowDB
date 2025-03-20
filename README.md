@@ -8,3 +8,9 @@ Performance data is sourced from [Warcraft Logs](https://www.warcraftlogs.com), 
 
 ### Query Interface
 Simple interface for queries built in Visual Studio using C# and XAML
+
+### Entity Relationship Diagram
+![](Design/Entity%20Relationship%20Diagram.png)
+
+### Relational Schema
+![](Design/Relational%20Schema.png)
