@@ -7,7 +7,7 @@ Class, specialization, race, and spell data is sourced from [Wowpedia](https://w
 Performance data is sourced from [Warcraft Logs](https://www.warcraftlogs.com), a site tracking millions of logs from WoW players
 
 ### Query Interface
-Simple interface for queries built in Visual Studio using C# and XAML
+Simple interface for queries built in Visual Studio using C# and XAML (hosted on Butler database)
 
 ![](src/demo.gif)
 
