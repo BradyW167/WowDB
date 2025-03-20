@@ -10,7 +10,7 @@ Performance data is sourced from [Warcraft Logs](https://www.warcraftlogs.com), 
 Simple interface for queries built in Visual Studio using C# and XAML
 
 <video width="600" controls>
-  <source src="src/demo.mp4" type="video/mp4">
+  <source src="https://github.com/BradyW167/WowDB/blob/main/src/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
