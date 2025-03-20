@@ -9,7 +9,10 @@ Performance data is sourced from [Warcraft Logs](https://www.warcraftlogs.com), 
 ### Query Interface
 Simple interface for queries built in Visual Studio using C# and XAML
 
-[Demo Video](src/demo.mp4)
+<video width="600" controls>
+  <source src="src/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Entity Relationship Diagram
 ![](src/erd.png)
